@@ -16,8 +16,8 @@ const todoData = [
     {
         id:3,
         text:'lorem ipsumsd amet',
-        isComplete: true,
-        isToday:true,
+        isComplete: false,
+        isToday:false,
         hour: '18:00'
     },
     {
